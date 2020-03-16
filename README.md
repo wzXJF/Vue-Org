@@ -9,3 +9,6 @@ Personal rewrite vue source code, the use of code to achieve the vue of the resp
 MVVM 作为绑定的入口，整合 Observer，Complie 和 Watcher 三者，通过 Observe 来监听 model 数据变化表，
 通过 Complie 来解析编译模板指令，最终利用 Watcher 搭起 Observer，Complie 之间的通讯桥梁，达到数据变化=>
 视图更新，视图交互变化=>数据 model 变更的双向绑定效果。
+
+如果对您理解Vue原理有帮助的话，希望您点颗✨，以示鼓励，谢谢！
+简书地址：https://www.jianshu.com/p/c8a002ecd766
